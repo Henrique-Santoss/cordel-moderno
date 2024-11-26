@@ -18,7 +18,7 @@ O projeto é estruturado da seguinte forma:
 ### index.html
 Este arquivo contém a estrutura básica do site, incluindo os elementos HTML e a importação dos arquivos CSS.
 
-### estilo/style.css
+### styles/style.css
 Este arquivo contém as regras de estilo gerais para o site, como tipografia, layout e cores, as regras de estilo específicas para o efeito parallax, definindo as propriedades das imagens e dos elementos de rolagem.
 
 ## Como Executar o Projeto
