@@ -47,4 +47,3 @@ Um agradecimento especial ao autor Milton Duarte por inspirar este projeto com s
 ---
 
 Aproveite o site e sinta-se à vontade para explorar e contribuir!
-
